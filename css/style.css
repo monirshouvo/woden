@@ -1,0 +1,59 @@
+/*font-family: 'Work Sans', sans-serif;*/
+body{
+	font-family: 'Work Sans', sans-serif;
+	background-image: linear-gradient(to right, #D4D4D2, #F0F0F2);
+	
+}
+header{
+	
+}
+/*Header start*/
+/*Navbar start*/
+.navbar-custom{
+	font-weight: 600;
+	font-size: 22px;
+}
+.custom-icon{
+	color: #94d3ac;
+	font-size: 30px;
+	margin-left: 50px;
+}
+.custom-menu a:hover {
+	background-color: #94d3ac;
+	color: white;
+}
+/*Navbar end*/
+/*Header end*/
+/*Banner start*/
+.banner{
+	min-height: 500px;
+	background-image: url("../images/cover3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.custom-banner{
+	padding: 70px 50px;
+}
+
+/*Carousel start*/
+
+/*Carousel end*/
+.about, .custom-border-top{
+	margin-top: 50px;
+}
+.custom-bg{
+	background-image: linear-gradient(to right, #D4D4D2, #F0F0F2);
+}
+.custom-text{
+	
+}
+/*Product start*/
+.custom-border{
+	margin-top: 10px;
+}
+.custom-background{
+	background-image: linear-gradient(to right, #D4D4D2, #F0F0F2);
+	border: 2px solid #94d3ac;
+}
+
+/*Product end*/
